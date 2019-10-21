@@ -29,40 +29,51 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 功能展示
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+本项目采用Bootstrap，实现响应式布局，适用于PC端及移动端。
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### PC端
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- 分页功能
 
-## Learn More
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%86%E9%A1%B5PC.gif)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 添加功能
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0PC.gif)
 
-### Code Splitting
+- 编辑功能
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![image](https://github.com/boisduval/repo/blob/master/asset/%E7%BC%96%E8%BE%91PC.gif)
 
-### Analyzing the Bundle Size
+- 删除功能
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%A0%E9%99%A4PC.gif)
 
-### Making a Progressive Web App
+- 标记完成
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%A0%87%E8%AE%B0%E5%AE%8C%E6%88%90PC.gif)
 
-### Advanced Configuration
+#### 移动端
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+- 分页功能
 
-### Deployment
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%86%E9%A1%B5Mobile.gif)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- 添加功能
 
-### `npm run build` fails to minify
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0Mobile.gif)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- 编辑功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E7%BC%96%E8%BE%91Mobile.gif)
+
+- 删除功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%A0%E9%99%A4Mobile.gif)
+
+- 标记完成
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%A0%87%E8%AE%B0%E5%AE%8C%E6%88%90Mobile.gif)
+

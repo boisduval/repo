@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.description {
+  text-align: left;
+  max-width: 70%;
+}
+.del {
+  margin-left: 10px;
+}
+.dosth {
+  color: #337ab7;
+}
+.done {
+  color: #5db85b;
+}

@@ -1,0 +1,12 @@
+.in {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+.modal-dialog {
+  flex: 1;
+  max-width: 570px;
+}
+#myModal {
+  text-align: left;
+}

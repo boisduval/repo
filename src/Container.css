@@ -1,0 +1,15 @@
+.Container {
+  padding-top: 70px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.container {
+  max-width: 600px;
+  width: 100%;
+  overflow: auto;
+}
+ul li {
+  word-wrap: break-word;
+}

@@ -42,3 +42,38 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - 添加功能
 
 ![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0PC.gif)
+
+- 编辑功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E7%BC%96%E8%BE%91PC.gif)
+
+- 删除功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%A0%E9%99%A4PC.gif)
+
+- 标记完成
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%A0%87%E8%AE%B0%E5%AE%8C%E6%88%90PC.gif)
+
+#### 移动端
+
+- 分页功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%86%E9%A1%B5Mobile.gif)
+
+- 添加功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0Mobile.gif)
+
+- 编辑功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E7%BC%96%E8%BE%91Mobile.gif)
+
+- 删除功能
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%A0%E9%99%A4Mobile.gif)
+
+- 标记完成
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%A0%87%E8%AE%B0%E5%AE%8C%E6%88%90Mobile.gif)
+

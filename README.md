@@ -29,9 +29,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-###功能展示
+### 功能展示
 
-####PC端
+#### PC端
 
 - 分页功能
-![image](https://github.com/boisduval/repo/asset/分页PC.gif)
+
+![image](https://github.com/boisduval/repo/blob/master/asset/%E5%88%86%E9%A1%B5PC.gif)

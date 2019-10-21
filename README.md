@@ -63,7 +63,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 - 添加功能
 
-![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0Mobile.gif)
+![image](https://github.com/boisduval/repo/blob/master/asset/%E6%B7%BB%E5%8A%A0Mobile1.gif)
 
 - 编辑功能
 
